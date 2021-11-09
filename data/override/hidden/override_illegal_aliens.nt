@@ -1,0 +1,14 @@
+<http://id.loc.gov/authorities/subjects/sh2011000897> <http://www.w3.org/2004/02/skos/core#hiddenLabel> "Children of illegal aliens"@en .
+<http://id.loc.gov/authorities/subjects/sh2011000897> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children of undocumented immigrants"@en .
+<http://id.loc.gov/authorities/subjects/sh2008002554> <http://www.w3.org/2004/02/skos/core#hiddenLabel> "Illegal alien children"@en .
+<http://id.loc.gov/authorities/subjects/sh2008002554> <http://www.w3.org/2004/02/skos/core#prefLabel> "Undocumented immigrant children"@en .
+<http://id.loc.gov/authorities/subjects/sh85003553> <http://www.w3.org/2004/02/skos/core#hiddenLabel> "Illegal aliens"@en .
+<http://id.loc.gov/authorities/subjects/sh85003553> <http://www.w3.org/2004/02/skos/core#prefLabel> "Undocumented immigrants"@en .
+<http://id.loc.gov/authorities/subjects/sh2009001797> <http://www.w3.org/2004/02/skos/core#hiddenLabel> "Illegal aliens in literature"@en .
+<http://id.loc.gov/authorities/subjects/sh2009001797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Undocumented immigrants in literature"@en .
+<http://id.loc.gov/authorities/subjects/sh2001002003> <http://www.w3.org/2004/02/skos/core#hiddenLabel> "Women illegal aliens"@en .
+<http://id.loc.gov/authorities/subjects/sh2001002003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women undocumented immigrants"@en .
+#GENERATED (Thu Feb 11 01:44:44 PM EST 2021) FROM:
+#TRAILER orig_sha1=fd6f37c78571d405ebb09441cb02fd56d3ddad29
+#TRAILER pruned_sha1=1b73f7d8e435946f7aab7c6510a1f940b1c4c9c2
+#TRAILER date=Tue Feb  9 05:11:38 PM EST 2021
